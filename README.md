@@ -7,5 +7,5 @@ This algorithm finds the root of a function using the false position method. It 
 ## LU Factor Algorithm
 This algorithm is performs the LU decomposition of a function to find the L and U matrices from an initial n x n matrix of coefficients.  It required an initial matrix, and returns the upper triangular matrix (U), the lower triangular matrix (L), and the pivoting matrix (P). 
 
-##Simpson's Algorithm
+## Simpson's Algorithm
 This algorithm finds the integral of a function using Simpson's 1/3 rule over a given integral.  It requires two inputs, the x values of the function and the corresponding f(x) values in two 1xn matricies. The function then returns the intrgral value, and may employ the trapezoidal rule to find it. 
