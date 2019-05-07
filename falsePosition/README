@@ -1,2 +1,6 @@
-# False Position Algorithm
-This algorithm finds the root of a function using the false position method. It is designed to find the zero of a function, given the function, two initial guesses, a stopping critera, and a max number of iterations. It returns the returns the location of the root, the f(x) value at the root, and the estimated error, and the number of iterations used to find it.
+False Position Algorithm
+
+This algorithm finds the root of a function using the false position method. 
+It is designed to find the zero of a function, given the function, two initial guesses, a stopping critera, and a max number of iterations.
+It returns the returns the location of the root, the f(x) value at the root, and the estimated error, and the number of iterations used to 
+find it.
